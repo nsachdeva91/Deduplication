@@ -1,0 +1,14 @@
+faiss-cpu
+numpy
+opencv-python
+imagehash
+Pillow
+python-speech-features
+pydub
+matplotlib
+sentence-transformers
+pytesseract
+colorama
+tabulate
+watchdog
+scikit-learn
